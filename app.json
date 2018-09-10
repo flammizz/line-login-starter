@@ -4,15 +4,15 @@
   "repository": "https://github.com/line/line-login-starter",
   "env": {
     "LINECORP_PLATFORM_CHANNEL_CHANNELID": {
-      "description": "Channel ID",
+      "description": "1606459364",
       "required": true
     },
     "LINECORP_PLATFORM_CHANNEL_CHANNELSECRET": {
-      "description": "Channel secret",
+      "description": "57af0707f309cc935a5a198d1eaef93a",
       "required": true
     },
     "LINECORP_PLATFORM_CHANNEL_CALLBACKURL": {
-      "description": "Callback URL",
+      "description": "http://thefmz.xyz/reward/line/config_line",
       "required": true
     }
   }
